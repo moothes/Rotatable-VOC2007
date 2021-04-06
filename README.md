@@ -1,8 +1,8 @@
 # PASCAL-VOC2007
 Annotate images by some points. This policy makes the image rotatable in detection.
 
-It took me 10 hour everyday in 2 weeks to annotate all the images. 
-By the way, some annotation errors in original VOC2007 dataset is fixed in our annotations.
+It took me 10 hours everyday in 2 weeks to annotate all the images. 
+By the way, some annotation errors in original VOC2007 dataset are fixed in our annotations.
 For fair comparison, I only annotate the objects that are anotated in original dataset.
 
 We test the new annotations using SSD, it causes 0.3 mAP drop in original images.
